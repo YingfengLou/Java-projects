@@ -1,0 +1,63 @@
+Name:Yingfeng Lou
+USC NetId:louy
+CSCI 455 PA1
+Spring 2021
+
+----------------------------------------------
+CERTIFY IT'S YOUR WORK
+
+"I certify that the work submitted for this assignment does not
+violate USC's student conduct code.  In particular, the work is my
+own, not a collaboration, and does not involve code created by other
+people, except for the the resources explicitly mentioned in the CS 455
+Course Syllabus.  And I did not share my solution or parts of it with
+other students in the course."
+
+Initial below to "sign" the above statement:
+
+YINGFENG LOU
+----------------------------------------------
+ACKNOWLEDGE ANY OUTSIDE SOURCES
+
+List here any code you submitted for this assignment that was written
+with significant help of a course staff member, or code used from the
+textbook.  Be specific about what methods or algorithms are involved,
+and what sections of the textbook are involved (if applicable): [you do
+not need to list any of the code that we wrote for the assignment,
+i.e., the contents of the starter files for the assignment]
+
+The code in Class Bar, method draw() was written with significant help of
+textbook section 2.10.4, the example of alien face.
+
+----------------------------------------------
+KNOWN BUGS or LIMITATIONS:
+
+
+
+----------------------------------------------
+ANY OTHER NOTES FOR THE GRADER:
+
+
+
+----------------------------------------------
+ANSWERS TO ASSIGNMENT README QUESTIONS (if applicable):
+1. The outside code resources that we are  allowed to use in assignments
+   for this class are limited to code written by the course staff  for the purposes
+   of helping students in the course, or code from the textbook for this course.
+
+2. Probability of two heads: 1/4
+   Probability of two tails: 1/4
+   Probability of one head and one tail: 1/2
+   Because every coin have P(head) = P(tail) = 1/2, one-head and one-tail including
+   2 situations: 1st coin is head and 2nd is tail & 1st coin is tail and 2nd is head.
+   So P(one-head and one-tail) = 1/2 * 1/2 + 1/2 * 1/2 = 1/2
+   P(two heads) = P(two tails) = 1/2 * 1/2 = 1/4
+
+3.About 10,000 trials needed to do, I mostly get results within 1% of these probabilities
+
+4. Largest value is 2,147,483,647
+   Overflow: 2,147,483,648
+
+
+
+
